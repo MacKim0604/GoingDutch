@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int PrintHelloWorld(){
+bool PrintHelloWorld(){
     printf("Hello World");
     
-    return 0;
+    return true;
 }
